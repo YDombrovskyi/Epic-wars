@@ -1,0 +1,7 @@
+C:\Users\klost758\Documents\Visual Studio 2017\Projects\EpicWars\EpicWars\obj\Debug\EpicWars.csprojResolveAssemblyReference.cache
+C:\Users\klost758\Documents\Visual Studio 2017\Projects\EpicWars\EpicWars\obj\Debug\EpicWars.csproj.CoreCompileInputs.cache
+C:\Users\klost758\Documents\Visual Studio 2017\Projects\EpicWars\EpicWars\bin\Debug\EpicWars.exe.config
+C:\Users\klost758\Documents\Visual Studio 2017\Projects\EpicWars\EpicWars\bin\Debug\EpicWars.exe
+C:\Users\klost758\Documents\Visual Studio 2017\Projects\EpicWars\EpicWars\bin\Debug\EpicWars.pdb
+C:\Users\klost758\Documents\Visual Studio 2017\Projects\EpicWars\EpicWars\obj\Debug\EpicWars.exe
+C:\Users\klost758\Documents\Visual Studio 2017\Projects\EpicWars\EpicWars\obj\Debug\EpicWars.pdb
